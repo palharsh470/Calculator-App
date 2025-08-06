@@ -1,10 +1,39 @@
-# Welcome to your Expo app 👋
+# 🧮 Calculator App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A cross-platform mobile calculator built using React Native, JavaScript, and Expo, designed for real-time expression evaluation with a smooth and interactive user experience.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Features
+
+- 🔢 Real-time math expression evaluation with correct operator precedence
+- 🧠 Intelligent input parsing for complex calculations
+- 📜 Result history displayed with FlatList for quick access to previous results
+- 💥 Haptic/vibration feedback on keypresses for better interaction
+- 🧼 Clean and responsive UI that adjusts dynamically based on user input
+- 📱 Optimized for both Android and iOS devices using Expo framework
+
+---
+
+## 📸 Screenshots
+
+| Home Screen | Complex Expression | Result History | Syntax Error |
+|------------|-------------|----------------|----------------|
+| ![Home](assets/images/home.jpg) | ![Complex](assets/images/complex_cal.jpg) | ![History](assets/images/result_history.jpg) | ![Syntax Err](assets/images/syntax_err.jpg) |
+
+---
+
+## 🎥 Demo Video
+
+<a href="https://www.instagram.com/reel/DM_EBd7B4bb">
+  <img src="assets/images/videologo.jpg" alt="Watch Demo" width="200"/>
+</a>
+
+---
+
+## 🔧 Get started
+
+1. Install dependencies 
 
    ```bash
    npm install
