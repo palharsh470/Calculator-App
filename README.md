@@ -25,7 +25,7 @@ A cross-platform mobile calculator built using React Native, JavaScript, and Exp
 
 ## 🎥 Demo Video
 
-<a href="https://www.instagram.com/reel/DM_EBd7B4bb">
+<a href="https://www.instagram.com/p/DNGCeTUpcFn/">
   <img src="assets/images/videologo.jpg" alt="Watch Demo" width="200"/>
 </a>
 
